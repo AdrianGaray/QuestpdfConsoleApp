@@ -2,7 +2,8 @@
 
 **Ejemplo del PDF**
 
-![](C:\Users\adrgaray\Documents\you_tube\ReportesPDF\PdfGenerado.png)
+
+![PdfGenerado](https://user-images.githubusercontent.com/42153530/224733619-747213a1-b5ee-47ed-91d5-ab57734ef9ce.png)
 
 
 
