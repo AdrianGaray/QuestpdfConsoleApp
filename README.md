@@ -31,14 +31,16 @@ URL: https://www.questpdf.com/
   
 <br>
 
-**Instalación de la herramienta Previewer**  
+### Instalación de la herramienta Previewer  
+
+
 
 Se instala en su entorno de desarrollo local.
 
-📁 Para instalar **QuestPDF Previewer**, se ejecuta el siguiente comando desde la consola(CMD) :
+📁 Para instalar **QuestPDF Previewer**, se ejecuta el siguiente comando desde CMD : ```dotnet tool install QuestPDF.Previewer --global```
 
 
-```dotnet tool install QuestPDF.Previewer --global```
+
 
 
 
