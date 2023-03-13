@@ -11,7 +11,8 @@
 
 - Se instala desde Nuguet la librería: **questpdf**.
 
-![LIbreria_questpdf](C:\Users\adrgaray\Documents\you_tube\ReportesPDF\LIbreria_questpdf.png)
+
+![LIbreria_questpdf](https://user-images.githubusercontent.com/42153530/224733810-c73e4977-5d90-4685-8cde-e6f2a6695cf1.png)
 
 
 
@@ -31,7 +32,8 @@ Se instala en su entorno de desarrollo local.
 
 `dotnet tool install QuestPDF.Previewer --global`
 
-![QuestPDF Previewer](C:\Users\adrgaray\Documents\you_tube\ReportesPDF\QuestPDF Previewer.png)
+
+![QuestPDF Previewer](https://user-images.githubusercontent.com/42153530/224733875-4ddb9ee0-8afd-4db4-a5e4-7520618d9d69.png)
 
 
 
