@@ -18,7 +18,7 @@
 
 <u>**QuestPDF Previewer**</u> 
 
-​	**Previewer**, es una herramienta diseñada para simplifica.  Muestra una vista previa del documento y 	actualiza la vista previa cada vez que cambia la implementación.
+​		**Previewer**, es una herramienta diseñada para simplifica.  Muestra una vista previa del documento y 	actualiza la vista previa cada vez que cambia la implementación.
 
 URL: https://www.questpdf.com/
 
