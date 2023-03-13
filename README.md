@@ -18,7 +18,7 @@
 
 <u>**QuestPDF Previewer**</u> 
 
-​		**Previewer**, es una herramienta diseñada para simplifica.  Muestra una vista previa del documento y 	actualiza la vista previa cada vez que cambia la implementación.
+**Previewer**, es una herramienta diseñada para simplifica.  Muestra una vista previa del documento y 	actualiza la vista previa cada vez que cambia la implementación.
 
 URL: https://www.questpdf.com/
 
@@ -26,11 +26,11 @@ URL: https://www.questpdf.com/
 
 <u>**Instalación de la herramienta Previewer**</u>
 
-​	Se instala en su entorno de desarrollo local.
+Se instala en su entorno de desarrollo local.
 
-​	📁 Para instalar **QuestPDF Previewer**, se ejecute el siguiente comando desde la consola(CMD) :
+📁 Para instalar **QuestPDF Previewer**, se ejecute el siguiente comando desde la consola(CMD) :
 
-​											`dotnet tool install QuestPDF.Previewer --global`
+`dotnet tool install QuestPDF.Previewer --global`
 
 
 ![	](https://user-images.githubusercontent.com/42153530/224733875-4ddb9ee0-8afd-4db4-a5e4-7520618d9d69.png)
